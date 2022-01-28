@@ -1,4 +1,4 @@
-# Consulteer Test
+# Vanilla JS Slider
 
 ## v1.0.0
 
@@ -9,8 +9,4 @@
 
 
 ### Notes
-- Nav arrows do not work as behaviour was not specified in the task document
-
-
-### Bugs
-- When data-pause is set to true removing cursor from slider will immediately change it to next slide.
+- Control slider like autoplay, pause on hover and slider speed with data attributes.
